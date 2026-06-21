@@ -2,7 +2,7 @@
 
 **Geospatial Climate Risk & Thermal Integrity Engine for AI Data Centers**
 
-A production-style Python prototype that treats a global AI data centre fleet as a living system: it fuses macro climate stress signals with asset telemetry, predicts next-hour thermal efficiency degradation with machine learning, and prescribes sustainability-aware workload redistribution — all inside a dark, mission-control Streamlit experience.
+A production-style Python prototype that treats a global AI data centre fleet as a living system: it fuses macro climate stress signals with asset telemetry, predicts next-hour thermal efficiency degradation with machine learning, and prescribes sustainability-aware workload redistribution —  inside a mission-control Streamlit experience.
 
 > *AI data centre growth is increasingly constrained not only by compute and power, but by thermal physics, water availability, carbon intensity, and regional climate volatility.*
 
